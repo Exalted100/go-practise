@@ -11,6 +11,8 @@ func main() {
 		"white": "#ffffff",
 	}
 
+	fmt.Println(colors["red"])
+
 	printMap(colors)
 }
 
